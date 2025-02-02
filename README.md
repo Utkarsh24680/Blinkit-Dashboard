@@ -1,6 +1,9 @@
-![Alt Text](Dashboard.png)
-
 ## Dashboard
+
+![Alt Text](pic_2.png)
+![Alt Text](pic_1.png)
+
+
 **Blinkit Dashboard** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmUxNDllNjYtMTA3OC00MTg1LTllNzEtNDRmOWM0MzBjOGJjIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D&pageName=4750d349970503007bdd)
 
 # Blinkit Quick Commerce Analytics 
